@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_partimage"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_partimage"
+path = "src/lib.rs"
